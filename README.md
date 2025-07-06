@@ -4,7 +4,7 @@
 📌 Specialization: Data Management and Artificial Intelligence  
 🔬 Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.  
 
-🌐 [My Website](https://skyrianos.com)
+🌊 [My Website](https://skyrianos.com)
 
 ---
 
