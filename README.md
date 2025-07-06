@@ -1,4 +1,4 @@
-# ✋🏻 Hi there, I'm George - David Tsitlaouri
+# ✋🏻 I'm George - David Tsitlaouri
 
 🎓 4th-year undergraduate student in Computer Science and Telecommunications at the University of Thessaly (DIT / UTH), Greece.  
 📌 Specialization: Data Management and Artificial Intelligence  
