@@ -1,16 +1,34 @@
-## Hi there 👋
+# ✋🏻 Hi there, I'm George - David Tsitlaouri
 
-<!--
-**giwrgostst/giwrgostst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th-year undergraduate student in Computer Science and Telecommunications at the University of Thessaly (DIT / UTH), Greece.  
+📌 Specialization: Data Management and Artificial Intelligence  
+🔬 Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.  
 
-Here are some ideas to get you started:
+🌐 [My Website](https://skyrianos.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 About Me
+- 🌩️ Passionate about computer architecture, cybersecurity, and AI
+
+---
+
+## 💻 Programming Languages and Tools
+- **Languages:** C, C++, Java, Python, SQL, CUDA, Pascal, HTML, CSS, JavaScript, Bash/Unix Shell, MIPS Assembly
+- **Tools:** Vivado
+
+---
+
+## 🌍 Languages Spoken
+- Greek (Native)
+- Russian
+- English
+
+---
+
+## 📫 Contact
+- 📧 (giwrgos.tst@gmail.com)
+
+---
+
+> *Feel free to check out my repositories!*
