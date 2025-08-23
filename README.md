@@ -15,7 +15,7 @@
 
 ## 💻 Programming Languages and Tools
 - **Languages:** C, C++, Java, Python, SQL, CUDA, Pascal, HTML, CSS, JavaScript, Bash/Unix Shell, MIPS Assembly
-- **Tools:** Vivado, Vivado, Kubernetes
+- **Tools:** Vivado, Docker, Kubernetes
 
 ---
 
