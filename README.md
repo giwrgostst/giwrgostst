@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 About Me
-- 🌩️ Passionate about computer architecture, cybersecurity, and AI
+- 🌩️ Passionate about Cybersecurity & AI
 
 ---
 
