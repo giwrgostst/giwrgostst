@@ -15,8 +15,10 @@
 ---
 
 ## 💻 Programming Languages and Tools
-- **Languages:** C, C++, Java, Python, SQL, CUDA, Pascal, HTML, CSS, JavaScript, Linux, MIPS Assembly
-- **Tools:** Vivado, Docker, Kubernetes, VSCode, Wireshark
+- **Languages:**  C, C++, Java, Python, SQL, CUDA, Pascal, MATLAB, HTML, CSS, JavaScript, Linux, MIPS Assembly
+- **Tools:** Vivado, Docker, Kubernetes, VsCode, Spyder, Wireshark, Git, VirtualBox, Microsoft Teams, WordPress, Figma
+- **Personal Skills:** Understanding user needs and behaviors, effective communication and teamwork, flexibility in changing environments, commitment to ongoing self-improvement.
+
 
 ---
 
