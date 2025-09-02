@@ -13,14 +13,14 @@
 
 ## 💻 Programming Languages and Tools
 - **Languages:** C, C++, Java, Python, SQL, CUDA, Pascal, HTML, CSS, JavaScript, Linux, MIPS Assembly
-- **Tools:** Vivado, Docker, Kubernetes, VSCode
+- **Tools:** Vivado, Docker, Kubernetes, VSCode, Wireshark
 
 ---
 
 ## 🌍 Languages Spoken
 - Greek (Native)
 - Russian (Native)
-- English
+- English (B2)
 
 ---
 
