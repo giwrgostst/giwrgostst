@@ -5,12 +5,12 @@
 🔬 Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.  
 
 ---
-## Thesis
+## 🌩️ Thesis
 - Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
 ---
 
 ## 🧭 About Me
-- 🌩️ Passionate about Cybersecurity & AI
+-  Passionate about Cybersecurity & AI
 
 ---
 
