@@ -6,7 +6,7 @@
 
 ---
 ## 🌩️ Thesis
-Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
+- Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
 ---
 
 ## 💻 Programming Languages and Tools
