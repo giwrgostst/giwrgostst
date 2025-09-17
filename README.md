@@ -9,11 +9,6 @@
 - Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
 ---
 
-## 🧭 About Me
--  Passionate about Cybersecurity & AI
-
----
-
 ## 💻 Programming Languages and Tools
 - **Languages:**  C, C++, Java, Python, SQL, CUDA, Pascal, MATLAB, HTML, CSS, JavaScript, Linux, MIPS Assembly
 - **Tools:** Vivado, Docker, Kubernetes, VsCode, Spyder, Wireshark, Git, VirtualBox, Microsoft Teams, WordPress, Figma
