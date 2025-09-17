@@ -2,7 +2,8 @@
 
 🎓 4th-year undergraduate student in INFORMATICS & TELECOMMUNICATIONS at the University of Thessaly (DIT / UTH), Greece.  
 📌 Specialization: Data Management and Artificial Intelligence
-🔬 Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.  
+🔬 Member of the Research Laboratory of Computer Architecture, Compilers and Systems Security.
+
 ---
 ## 🌩️ Thesis
 Design and implementation of an encrypted instruction set processor (CryptoCPU) on FPGA
