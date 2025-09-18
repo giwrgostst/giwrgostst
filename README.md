@@ -18,14 +18,14 @@
 - 🧠 **Advanced Machine Learning Projects** – Deep learning and data analysis  
 - 🔒 **Parallel AES CUDA** – GPU-based parallel encryption  
 - ☁️ **Weather App Autoscaler** – Kubernetes app with auto-scaling based on load and weather data  
-- 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark  
-- 🎥 **Video Coding for Machines** – Research about Optimized video coding
-- 📊 **Tourism Data Mining** – Data mining and analysis for tourism    
+- 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark and Hadoop
+- 🎥 **Video Coding for Machines** – Research about Optimized video coding techniques
+- 📊 **Tourism Data Mining** – Data mining for tourism analytics   
 - 🎮 **Reinforcement Learning Experiments** – RL algorithms  
 - 🌐 **GPBFT Consensus Protocol** – Distributed consensus implementation  
 - 🛠️ **Build a Compiler** – Custom compiler from scratch  
-- 📚 **Egram Student Management System** – Platform for educational institutions  
-- 🌍 **Skyrianos** – Informational website about the island of Skyros  
+- 📚 **Egram Student Management System** – Platform for institutions  
+- 🌍 **Skyrianos** – Website about the island of Skyros  
 - 🐦 **OstrichZooPark** – Website for Ostrich Zoo Park  
 
 💡 *Check out all my repositories for more!*  
@@ -34,15 +34,15 @@
 
 ## 💻 Programming Languages & Tools  
 - **Languages:** C, C++, Java, Python, SQL, CUDA, MIPS Assembly, HTML, CSS, JavaScript  
-- **Tools:** Vivado, Docker, Kubernetes, Apache Spark, Git, VS Code, Wireshark, VirtualBox  
-- **OS:** Linux, Windows  
+- **Tools:** Xilinx Vivado, Docker, Kubernetes, Git, VS Code, Wireshark, VirtualBox  
+- **OS:** Windows, Linux 
 
 ---
 
 ## 🌍 Languages Spoken  
 - Greek (Native)  
 - Russian (Native)  
-- English (B2 – ECCE, University of Michigan)  
+- English (B2–ECCE, University of Michigan)  
 
 ---
 
