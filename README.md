@@ -19,7 +19,8 @@
 - 🔒 **Parallel AES CUDA** – GPU-based parallel encryption  
 - ☁️ **Weather App Autoscaler** – Kubernetes app with auto-scaling based on load and weather data  
 - 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark  
-- 🎥 **Video Coding for Machines** – Research about Optimized video coding  
+- 🎥 **Video Coding for Machines** – Research about Optimized video coding
+- 📊 **Tourism Data Mining** – Data mining and analysis for tourism    
 - 🎮 **Reinforcement Learning Experiments** – RL algorithms  
 - 🌐 **GPBFT Consensus Protocol** – Distributed consensus implementation  
 - 🛠️ **Build a Compiler** – Custom compiler from scratch  
