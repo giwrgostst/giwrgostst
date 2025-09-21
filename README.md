@@ -52,5 +52,3 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/giwrgostst/)  
 
 ---
-
-> *Passionate about AI, Big Data, Cloud, and Secure Systems — always exploring new challenges and building impactful solutions.*  
