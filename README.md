@@ -15,7 +15,8 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🧠 **Advanced Machine Learning Projects** – Deep learning and data analysis  
+- 🧠 **Advanced Machine Learning Projects** – Deep learning and data analysis
+- 🏎️ **ccc-ir-optimizer** – IR code optimizer for the CCC C front end translator
 - 🔒 **Parallel AES CUDA** – GPU-based parallel encryption  
 - ☁️ **Weather App Autoscaler** – Kubernetes app with auto-scaling based on load and weather data  
 - 🚕 **Big Data Spark Taxi** – Large-scale analysis of taxi trips using Apache Spark and Hadoop
