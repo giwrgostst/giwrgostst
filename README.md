@@ -2,7 +2,7 @@
 
 🎓 BSc in Informatics & Telecommunications, University of Thessaly (DIT/UTH), Greece  
 📌 Specialization: Data Management and Artificial Intelligence  
-🔬 Member of the Research Laboratory of Computer Architecture, Compilers, and Systems Security  
+🔬 Member of the Research Laboratory of Computer Architecture, Compilers, and System Security  
 
 ---
 
