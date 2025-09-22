@@ -46,9 +46,3 @@
 - English (B2–ECCE, University of Michigan)  
 
 ---
-
-## 📫 Contact  
-- 📧 gtsitlaouri@uth.gr  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gtsitlaouri/)  
-
----
